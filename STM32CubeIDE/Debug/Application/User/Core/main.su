@@ -1,0 +1,16 @@
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:1679:22:LL_RCC_LSE_SetDriveCapability	16	static
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:364:22:LL_AHB1_GRP1_EnableClock	24	static
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	24	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:78:6:Max30102Setup	16	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:93:5:main	8	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:162:6:SystemClock_Config	112	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:213:6:PeriphCommonClock_Config	88	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:238:13:MX_I2C1_Init	8	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:286:13:MX_IPCC_Init	8	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:312:13:MX_LPUART1_UART_Init	8	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:360:13:MX_RF_Init	4	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:381:13:MX_RTC_Init	8	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:422:13:MX_DMA_Init	8	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:441:13:MX_GPIO_Init	32	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:464:6:setMPUSettings	16	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/Core/Src/main.c:487:6:Error_Handler	4	static,ignoring_inline_asm

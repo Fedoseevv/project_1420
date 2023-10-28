@@ -1,0 +1,16 @@
+stm32wbxx_ll_rcc.h:1679:22:LL_RCC_LSE_SetDriveCapability	1
+stm32wbxx_ll_bus.h:364:22:LL_AHB1_GRP1_EnableClock	1
+stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	1
+main.c:78:6:Max30102Setup	1
+main.c:93:5:main	1
+main.c:162:6:SystemClock_Config	3
+main.c:213:6:PeriphCommonClock_Config	2
+main.c:238:13:MX_I2C1_Init	4
+main.c:286:13:MX_IPCC_Init	2
+main.c:312:13:MX_LPUART1_UART_Init	5
+main.c:360:13:MX_RF_Init	1
+main.c:381:13:MX_RTC_Init	3
+main.c:422:13:MX_DMA_Init	1
+main.c:441:13:MX_GPIO_Init	1
+main.c:464:6:setMPUSettings	1
+main.c:487:6:Error_Handler	1

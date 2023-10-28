@@ -1,0 +1,11 @@
+custom_app.c:131:6:Custom_STM_App_Notification	3
+custom_app.c:168:6:Custom_APP_Notification	3
+custom_app.c:209:6:Custom_APP_Init	1
+custom_app.c:233:6:Custom_Pag_Update_Char	2
+custom_app.c:252:6:Custom_Pag_Send_Notification	2
+custom_app.c:274:13:PAGAPP_Measurment	1
+custom_app.c:289:13:PAGMeas	1
+custom_app.c:294:17:PAGAPP_Read_RTC_SSR_SS	1
+custom_app.c:299:6:getAccMPU	2
+custom_app.c:306:6:get_location	5
+custom_app.c:332:6:Max30102Loop	5

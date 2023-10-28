@@ -1,0 +1,11 @@
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:131:6:Custom_STM_App_Notification	16	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:168:6:Custom_APP_Notification	16	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:209:6:Custom_APP_Init	8	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:233:6:Custom_Pag_Update_Char	16	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:252:6:Custom_Pag_Send_Notification	16	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:274:13:PAGAPP_Measurment	88	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:289:13:PAGMeas	8	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:294:17:PAGAPP_Read_RTC_SSR_SS	4	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:299:6:getAccMPU	8	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:306:6:get_location	24	static
+C:/Users/mixai/STM32CubeIDE/workspace_1.12.0/WS2/STM32_WPAN/App/custom_app.c:332:6:Max30102Loop	80	static
